@@ -1,0 +1,15 @@
+.mainPage__title{
+    color: yellow;
+    font-size: 80px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.mainPage > a {
+    width: auto;
+    height: 80px;   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    color: white;
+}

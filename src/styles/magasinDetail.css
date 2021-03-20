@@ -1,0 +1,41 @@
+.magasinDetail__title{
+    color:yellow;
+    text-align: center;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+.magasinDetail__nomMagasin{
+    color: white;
+    text-align: center;
+    font-size: 32px;
+}
+.magasinDetail__nomMagasin__strong{
+    color: gray;
+}
+.magasinDetail__pizzaTitle{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.magasinDetail__boissonTitle{
+    text-align: center;
+    text-transform: uppercase;
+}   
+.magasinDetail__button{
+    display: flex;
+    background-color: tomato;
+    color: white;
+    border: none;
+    padding: 20px 37px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5.5px;
+    margin-bottom: 30px;
+    margin-left:43% ;
+}
+.magasinDetail__button:hover{
+    background-color: white;
+    color: tomato;
+}

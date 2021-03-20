@@ -1,0 +1,35 @@
+.pizza{
+  margin: 35px;
+  background-color: #0e1012;
+  padding: 30px 45px 30px 45px;
+  border-radius: 10px;
+}
+.pizza > p , .pizza > h1{
+  color: white;
+}
+.pizza__button   > button , .pizza > button{
+  background-color: tomato;
+  color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5.5px;
+}
+.pizza > button:hover{
+  background-color: white;
+  color: tomato;
+}
+.pizza__button{
+  margin-top: 10px;
+  display: flex;
+  color:white;  
+}
+.pizza__buttonRight{
+  margin-left: 15px;
+}
+.pizza__buttonLeft{
+  margin-right: 15px;
+}

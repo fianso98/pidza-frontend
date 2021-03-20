@@ -1,0 +1,35 @@
+.boisson{
+  margin: 35px;
+  background-color: #0e1012;
+  padding: 30px 45px 30px 45px;
+  border-radius: 10px;
+}
+.boisson > p , .boisson > h1{
+  color: white;
+}
+.boisson__button   > button , .boisson > button{
+  background-color: tomato;
+  color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5.5px;
+}
+.boisson > button:hover{
+  background-color: white;
+  color: tomato;
+}
+.boisson__button{
+  margin-top: 10px;
+  display: flex;
+  color:white;  
+}
+.boisson__buttonRight{
+  margin-left: 15px;
+}
+.boisson__buttonLeft{
+  margin-right: 15px;
+}

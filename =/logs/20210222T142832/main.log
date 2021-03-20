@@ -1,0 +1,2 @@
+[2021-02-22 14:28:32.320] [main] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/fianso/reactApp/pidza/=/User'
+[2021-02-22 14:28:32.364] [main] [info] update#setState idle

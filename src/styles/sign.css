@@ -1,0 +1,43 @@
+.sign__content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    margin-top: 70px;
+}
+.sign__form{
+    background-color: #0e1012;
+    padding-top: 80px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 100px;
+    border-radius: 10px;
+}
+.sign__formLigne{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+    align-items: flex-end;
+}
+.sign__formLigne > label{
+    padding-right: 5px;
+}
+.sign__form > button {
+    
+    background-color: tomato;
+    color: white;
+    border: none;
+    padding: 20px 37px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5.5px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-left: 33%;
+}
+.sign__form > button:hover{
+    background-color: white;
+    color: tomato;
+}
